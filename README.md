@@ -1,9 +1,16 @@
 # LAYOFF-Data-SQL
 SQL Project on Layoff Data. 
 
-Layoff Data is retrieved in an Excel (CSV) file.
-First Script was used to clean the data within the Database using the principles of Alex the Analyst BootCamp.
+Data:
+  Layoff Data is retrieved in an Excel (CSV) file. 
+  Dataset Download: https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/layoffs.csv (not my own dataset)
 
-The second script will be uploaded soon
+First Script:
+  SQL Data Cleaning Script
+  Data was cleaned using the principles of Alex the Analyst Boot Camp.
 
-Part of Alex the Analyst Data BootCamp.
+Second Script: UPLOADING SOON
+  SQL Data Analysis Script
+
+
+**Part of Alex the Analyst Data BootCamp.**
